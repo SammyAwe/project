@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+header, footer {
+    background-color: #2a9d8f;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+section {
+    margin: 20px 0;
+}
+h1, h2 {
+    color: #264653;
+    font-family: Georgia, serif;
+}
+p, a {
+    font-family: Arial, sans-serif;
+}
+a {
+    color: #2a9d8f;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
